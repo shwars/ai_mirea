@@ -18,8 +18,8 @@
 2   |  Л  | Классическое машинное обучение - 1 | [Regression](02-ML-1/Regression.ipynb), [Classification](02-ML-1/Classification.ipynb)
 2.1 |  П  | Пример решения задачи регрессии | [Seminar](02-ML-1/Regression_Seminar.ipynb) 
 2.2 |  П  | Пример решения задачи классификации | [Seminar](02-ML-1/Classification_Seminar.ipynb)
-3   |  Л  | Классическое машинное обучение - 2 | [Theory](02-ML-2/Clustering.ipynb),
-3.1 |  П  | Пример решения задачи кластеризации | [Seminar](02-ML-2/Clustering_Seminar.ipynb), [Lab](02-ML-2/Clustering_Lab.ipynb)
+3   |  Л  | Классическое машинное обучение - 2 | [Theory](03-ML-2/Clustering.ipynb),
+3.1 |  П  | Пример решения задачи кластеризации | [Seminar](03-ML-2/Clustering_Seminar.ipynb), [Lab](03-ML-2/Clustering_Lab.ipynb)
 3.2 |  П  | TBD
 4   |  Л  | Нейросети. Персептрон Розенблатта. | [Theory](04-NeuralNets/Perceptron.ipynb)
 4.1 |  П  | Практика работы с персептроном | [Seminar](04-NeuralNets/Perceptron_Seminar.ipynb)
